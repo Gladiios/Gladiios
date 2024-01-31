@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=" width="1100"/> 
+
 <h1 align="center">Hi 👋, I'm Erwan « Gladiios » Marie </h1>
 <h3 align="center">A frontend developer from France</h3>
 <img align="right" src="https://i1.sndcdn.com/artworks-000329925816-3yu1fd-t500x500.jpg" border-radius="20px" alt="sad frog" height="300" width="300"/>
