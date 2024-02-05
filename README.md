@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from France</h3>
 <img align="right" src="https://i1.sndcdn.com/artworks-000329925816-3yu1fd-t500x500.jpg" border-radius="20px" alt="sad frog" height="300" width="300"/>
 
-- 🔭 I’m currently working on [Homelife-Roleplay redesign](https://www.homelife-roleplay.fr/)
+- 🔭 I’m currently working on a Fullstack Online Shop App
 
 - 🌱 I’m currently learning **Typescript**
 
